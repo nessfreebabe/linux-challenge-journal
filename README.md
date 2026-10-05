@@ -42,6 +42,9 @@ Swap:             0B          0B          0B**
 eth0             UP             159.223.100.202/20 10.10.0.5/16 
 eth1             UP             10.116.0.2/20**
 ## Day 2
+1. Determine the complete filesystem path of your current location
+   **/root/filename.txt**
+   
 - Learned how to navigate the file system, create files and directories, RTFM
 - /home & /ubuntu most common directories used during challenge
 - cd=change directory to check other directories
